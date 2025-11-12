@@ -1,0 +1,7 @@
+const islogin = (username) => {
+    return true;
+};
+const register = (user) => {
+    return true;
+};
+// test2
