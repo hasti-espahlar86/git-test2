@@ -1,5 +1,11 @@
 const islogin = (username) => {
+    if(username="amin") {
     return true;
+    }else{
+    return false;
+    }
+    
+    
 };
 const register = (user) => {
     return true;
