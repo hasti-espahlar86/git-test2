@@ -4,3 +4,6 @@ const test=() =>{
 const likepost= () =>{
     return true
 }
+const getme = (user) => {
+    return user.name
+}
