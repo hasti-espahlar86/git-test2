@@ -7,3 +7,6 @@ const likepost= () =>{
 const getme = (user) => {
     return user.name
 }
+const setcomment = (Comment) => {
+    return Comment.body;
+}
